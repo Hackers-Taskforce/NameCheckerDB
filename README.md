@@ -1,5 +1,7 @@
 # NameChecker - Public Version 🎉  
 A lightweight tool for checking names in a Firebase database. This public version is designed to give users easy access to name-checking functionalities while keeping the admin features secure.  
+[![MIT License](https://img.shields.io/github/license/Hackers-Taskforce/HackerCMD)](https://github.com/Hackers-Taskforce/HackerCMD/blob/main/LICENSE)
+
 
 ## Features  
 - 🔍 **Name Search**: Quickly check if a name exists in the database.  
